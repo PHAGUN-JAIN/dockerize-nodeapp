@@ -1,5 +1,12 @@
 # dockerize-nodeapp
 
+## Running on local system
+
+```Bash
+    npm install
+    npm start
+```
+
 ## Building a Docker Image
 
 ```Bash
