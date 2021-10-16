@@ -1,4 +1,4 @@
-FROM    node:ALPINE
+FROM    node:alpine
 
 LABEL   Author="PHAGUN-JAIN"
 
