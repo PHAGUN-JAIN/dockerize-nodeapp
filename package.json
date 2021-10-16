@@ -1,0 +1,27 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "simple node app for dockerization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PHAGUN-JAIN/dockerize-nodeapp.git"
+  },
+  "keywords": [
+    "docker",
+    "nodejs"
+  ],
+  "author": "PHAGUN-JAIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PHAGUN-JAIN/dockerize-nodeapp/issues"
+  },
+  "homepage": "https://github.com/PHAGUN-JAIN/dockerize-nodeapp#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
